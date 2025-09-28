@@ -33,7 +33,7 @@ Kullanıcı kimlik doğrulama (JWT), ürün ekleme/güncelleme/silme/listeleme g
 ---
 
 ## 🖼️ Uygulamadan Görseller
----
+
 <img width="1853" height="920" alt="Image" src="https://github.com/user-attachments/assets/5e533234-d1d9-4a87-ab8c-0e67581e41fa" />
 <img width="1862" height="928" alt="Image" src="https://github.com/user-attachments/assets/541fa559-4020-4bc6-b11c-feaa30f61c4a" />
 <img width="1850" height="928" alt="Image" src="https://github.com/user-attachments/assets/6555cb7f-3ceb-4c5b-8fa4-628833ee1aa9" />
